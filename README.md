@@ -1,6 +1,6 @@
-#BostonBusMap
-This app shows locations and predicts bus times in Boston and nearby cities, using GPS info from the MBTA.
-Please email bostonbusmap@gmail.com if you have any problem, and please report a crash if you see one! Twitter feed for bug updates: @bostonbusmap
+#MSPBusMap
+This app shows locations and predicts bus times in MSP and nearby cities, using GPS info from the MBTA.
+Please email MSPBusMap@matterickson.me if you have any problem, and please report a crash if you see one! Twitter feed for bug updates: @mspbusmap
 
 #Basic usage
 - choose a mode by clicking the button on the upper right corner. You can see all vehicles at once, vehicles for a single route, bus predictions for a single route, or only bus predictions on favorited stops
